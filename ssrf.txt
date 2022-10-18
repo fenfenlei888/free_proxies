@@ -1,11 +1,3 @@
-https://www.portal.gkzj.net
-https://geo.163dz.com
-http://qinzhou.184409.com
-http://www.sszzcw.com
-https://47.110.78.242
-http://bbs.intmilch.com
-http://www.99nets.com
-http://bbs.chishoes.com
 http://shgm.net
 https://club.idcgz.net
 http://linyichen.com
@@ -410,6 +402,7 @@ https://mabinogi.club
 http://www.moodle.myubbs.com:62078
 https://bslthb.cn
 http://61.220.142.211
+http://nd.184409.com
 http://188.lmcpw.net
 http://www.boesea.com
 http://winqu.com
@@ -461,6 +454,9 @@ https://wtg365.net
 http://bbs.mongoosenest.org
 http://fcg.180724.com
 http://ygpaobu.com
+https://geo.163dz.com
+https://47.110.78.242
+http://www.99nets.com
 http://hflxsld.com
 http://www.zentrue.com
 https://soft.163dz.com
@@ -480,6 +476,7 @@ https://autoconfig.news.gkzj.net
 http://www.education.uttbbs.com
 http://twitter.uttbbs.com
 http://52.15.204.109
+http://www.iuibe.com
 http://106.54.79.191:8090
 http://zw.180724.com
 http://feikechina.com
@@ -547,8 +544,14 @@ http://proxy.wxdaiyan.cn
 https://lcxlyy.com
 http://www.mzsky.com
 http://www.journal.myubbs.com:62078
+https://www.portal.gkzj.net
 http://www.cinema-home.cn
+http://bbs.intmilch.com
+http://www.sszzcw.com
+http://qinzhou.184409.com
+http://bbs.chishoes.com
 https://203.70.146.23
+http://www.jpun.net
 https://shktvw.com
 http://yukang.org.cn
 http://siita.org.cn
@@ -566,6 +569,7 @@ http://www.2cy8.com
 http://96.126.101.89:80
 http://opsbbs.whaley.cn
 http://bangbu.aizse.com
+http://news.dataguru.cn
 http://mg.180724.com
 http://www.dn2828.com
 http://45.136.150.17
